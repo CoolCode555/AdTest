@@ -26,19 +26,19 @@
     "checkgame": "1",
     "screen1": "1"
   },
-  "InterstitialAD": [
+  "ad_InterstitialAD": [
     "ca-app-pub-3940256099942544/1033173712",
     "ca-app-pub-3940256099942544/1033173712"
   ],
-  "BannerAD": [
+  "ad_BannerAD": [
     "ca-app-pub-3940256099942544/6300978111",
     "ca-app-pub-3940256099942544/6300978111"
   ],
-  "NativeAD": [
+  "ad_NativeAD": [
     "ca-app-pub-3940256099942544/2247696110",
     "ca-app-pub-3940256099942544/2247696110"
   ],
-  "AppOpnAD": [
+  "ad_appOpenAD": [
     "ca-app-pub-3940256099942544/3419835294",
     "ca-app-pub-3940256099942544/3419835294"
   ]
