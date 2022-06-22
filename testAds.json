@@ -1,0 +1,45 @@
+{
+  "STATUS": true,
+  "MSG": "",
+  "APP_SETTINGS": {
+    "app_name": "GB Version 2022 New",
+    "app_accountName": "App9 Trand inc",
+    "app_accountLink": "",
+    "app_packageName": "com.apptrand.gbnewversion",
+    "app_logo": "https://play-lh.googleusercontent.com/",
+    "app_status": "Release",
+    "app_privacyPolicyLink": "",
+    "app_needInternet": "0",
+    "app_updateAppDialogStatus": "0",
+    "app_versionCode": "2.0.1",
+    "app_redirectOtherAppStatus": "0",
+    "app_newPackageName": "https://play.google.com/store/apps/details?id=",
+    "app_dialogBeforeAdShow": "0",
+    "app_adShowStatus": "0",
+    "app_AppOpenAdStatus": "1",
+    "app_howShowAd": "0",
+    "app_adPlatformSequence": "Admob",
+    "app_alernateAdShow": "",
+    "app_mainClickCntSwAd": "0",
+    "app_innerClickCntSwAd": "0",
+    "gameurl": "",
+    "checkgame": "1",
+    "screen1": "1"
+  },
+  "InterstitialAD": [
+    "ca-app-pub-3940256099942544/1033173712",
+    "ca-app-pub-3940256099942544/1033173712"
+  ],
+  "BannerAD": [
+    "ca-app-pub-3940256099942544/6300978111",
+    "ca-app-pub-3940256099942544/6300978111"
+  ],
+  "NativeAD": [
+    "ca-app-pub-3940256099942544/2247696110",
+    "ca-app-pub-3940256099942544/2247696110"
+  ],
+  "AppOpnAD": [
+    "ca-app-pub-3940256099942544/3419835294",
+    "ca-app-pub-3940256099942544/3419835294"
+  ]
+}
